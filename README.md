@@ -53,3 +53,6 @@ Statistics
 Machine Learning
   ↓
 Data Science Projects
+## 🖥️ My Developer Terminal
+
+![My Terminal Profile](./profile-banner.png)
