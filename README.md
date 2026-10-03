@@ -41,7 +41,7 @@
 
 ## 📚 Data Science Journey
 
-```text
+
 Python
   ↓
 NumPy & Pandas
@@ -53,6 +53,5 @@ Statistics
 Machine Learning
   ↓
 Data Science Projects
-## 🖥️ My Developer Terminal
+![My Terminal Profile](https://raw.githubusercontent.com/deepak-singh08/deepaksingh08/main/profile-banner.png)
 
-![My Terminal Profile](https://github.com/deepak-singh08/deepaksingh08/blob/main/profile-banner.png)
