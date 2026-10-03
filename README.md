@@ -53,6 +53,6 @@ Statistics
 Machine Learning
   ↓
 Data Science Projects
-<h2>🖥️ My Developer Terminal</h2>
+## 🖥️ My Developer Terminal
 
-<img src="./profile-banner.png" alt="My Developer Terminal" width="100%">
+![My Terminal Profile](https://github.com/deepak-singh08/deepaksingh08/blob/main/profile-banner.png)
