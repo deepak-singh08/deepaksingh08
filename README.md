@@ -1,75 +1,55 @@
+<div align="center">
+
 # 👋 Hi, I'm Deepak Singh
 
-### 💻 B.Tech CSE Student | Java & Web Development
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Data+Scientist;Python+%7C+Data+Science+%7C+AI;Java+%7C+DSA+%7C+Web+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 
-I'm a Computer Science student passionate about learning programming, building projects, and improving my problem-solving skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech Computer Science & Engineering
-- 💻 Currently learning **Java, DSA & Web Development**
-- 🧩 Practicing problems on **LeetCode & GeeksforGeeks**
-- 🌱 Improving my coding and development skills every day
-- 🔨 Building projects and learning through practical experience
+</div>
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-### Programming
-`Java` `C`
-
-### Web Development
-`HTML` `CSS` `JavaScript`
-
-### Tools
-`Git` `GitHub` `VS Code`
+🎓 B.Tech Computer Science & Engineering Student  
+📊 Aspiring Data Scientist  
+🐍 Learning Python for Data Science & AI  
+💻 Also learning Java, DSA & Web Development  
+🧩 Practicing LeetCode & GeeksforGeeks  
+🚀 Building projects and improving every day  
 
 ---
 
-## 🧩 Coding Practice
+## ⚡ Tech Stack
 
-- 🔥 LeetCode Solutions
-- 💡 Data Structures & Algorithms
-- 🧠 Problem Solving
-- 📚 GeeksforGeeks Practice
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,git,github,vscode&perline=9" />
 
-## 📌 Featured Projects
-
-🔹 **LeetCode Solutions**  
-My solutions to coding problems and DSA practice.
-
-🔹 **Web Development Projects**  
-Projects created while learning HTML, CSS and JavaScript.
-
-🔹 **Java Projects**  
-Java programs and projects for improving OOP and programming concepts.
+</div>
 
 ---
 
-## 📊 GitHub
+## 🧠 Currently Learning
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepaksingh08&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksingh08&layout=compact&theme=tokyonight)
+`Python` `Data Science` `SQL` `Statistics` `Machine Learning` `DSA` `Git & GitHub`
 
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=deepaksingh08&theme=tokyonight)
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 📚 Data Science Journey
 
-- 💼 GitHub: [@deepaksingh08](https://github.com/deepaksingh08)
-- 🧩 LeetCode: [My LeetCode Profile](https://leetcode.com/)
-
----
-
-### 🚀 Keep Learning. Keep Building. Keep Growing.
+```text
+Python
+  ↓
+NumPy & Pandas
+  ↓
+Data Analysis & Visualization
+  ↓
+Statistics
+  ↓
+Machine Learning
+  ↓
+Data Science Projects
