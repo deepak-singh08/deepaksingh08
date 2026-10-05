@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Deepak Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Aspiring+Data+Scientist;Python+%7C+Data+Science+%7C+AI;Java+%7C+DSA+%7C+Web+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI/ML)+Student;Aspiring+Data+Scientist;Python+%7C+Data+Science+%7C+AI;Java+%7C+DSA+%7C+Web+Development;Learning+%7C+Building+%7C+Growing+%F0%9F%9A%80" />
 
 </div>
 
